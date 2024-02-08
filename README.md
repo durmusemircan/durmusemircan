@@ -2,5 +2,5 @@
 
 ## 📫 Contact
 - E-mail: [emircandurmud@gmail.com](mailto:emircandurmud@gmail.com)
-- LinkedIn: [www.linkedin.com/in/emircan-durmus](www.linkedin.com/in/emircan-durmus)
+- LinkedIn: [www.linkedin.com/in/emircan-durmus]([www.linkedin.com/in/emircan-durmus](https://tr.linkedin.com/in/emircan-durmus)https://tr.linkedin.com/in/emircan-durmus)
 
