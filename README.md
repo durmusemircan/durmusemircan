@@ -18,7 +18,8 @@
 
 ## 📫 Contact
 - E-mail: [emircandurmud@gmail.com](mailto:emircandurmud@gmail.com)
-- ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)(https://tr.linkedin.com/in/emircan-durmus)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://tr.linkedin.com/in/emircan-durmus)
+
 
 - ![LinkedIn](https://tr.linkedin.com/in/emircan-durmus)
 
