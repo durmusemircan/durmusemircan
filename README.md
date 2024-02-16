@@ -1,7 +1,7 @@
 # Hello World, I am Emircan Durmuş 👋
 
 I am a 4th year computer engineering student at Kadir Has University.
-- [![CV - Emircan Durmuş](https://img.shields.io/badge/-Download%20CV-red?style=for-the-badge&logo=Academia&logoColor=white)](https://github.com/durmusemircan/durmusemircan/blob/main/EmircanDurmusCV.pdf)
+- [![CV - Emircan Durmuş](https://img.shields.io/badge/-Download%20CV-red?style=for-the-badge)](https://github.com/durmusemircan/durmusemircan/blob/main/EmircanDurmusCV.pdf)
 
 ## 🛠 Technologies and Tools
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -22,5 +22,5 @@ I am a 4th year computer engineering student at Kadir Has University.
 
 ## 📫 Contact Me!
 - [![LinkedIn - Emircan Durmuş](https://img.shields.io/badge/-Emircan%20Durmuş-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://tr.linkedin.com/in/emircan-durmus)
-  [![Email - Emircan Durmuş](https://img.shields.io/badge/-SEND%20EMAIL-red?style=for-the-badge&logo=Mail.Ru&logoColor=white)](mailto:emircandurmud@gmail.com)
+  [![Email - Emircan Durmuş](https://img.shields.io/badge/-SEND%20EMAIL%20TO%20emircandurmud@gmail.com-red?style=for-the-badge&logo=Mail.Ru&logoColor=white)](mailto:emircandurmud@gmail.com)
 
