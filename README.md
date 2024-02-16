@@ -12,11 +12,11 @@
 - ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 - ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 - ![MySQL Workbench](https://img.shields.io/badge/-MySQL%20Workbench-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
-
+- ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
 
 
 ## 📫 Contact
 - E-mail: [emircandurmud@gmail.com](mailto:emircandurmud@gmail.com)
 - [LinkedIn](https://tr.linkedin.com/in/emircan-durmus)
-- ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+
