@@ -20,5 +20,5 @@ I am a 4th year computer engineering student at Kadir Has University.
 
 ## 📫 Contact Me!
 - [![LinkedIn - Emircan Durmuş](https://img.shields.io/badge/-Emircan%20Durmuş-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://tr.linkedin.com/in/emircan-durmus)
-- [![Email - Emircan Durmuş](https://img.shields.io/badge/-SEND%20EMAIL-red?style=for-the-badge&logo=Mail.Ru&logoColor=white)](mailto:emircandurmud@gmail.com)
+  [![Email - Emircan Durmuş](https://img.shields.io/badge/-SEND%20EMAIL-red?style=for-the-badge&logo=Mail.Ru&logoColor=white)](mailto:emircandurmud@gmail.com)
 
