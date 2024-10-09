@@ -1,6 +1,6 @@
 # Hello World, I am Emircan Durmuş 👋
 
-Computer Engineer.
+Computer Engineer | Research Master Data Science Student at Hochschule Bielefeld
 - [![CV - Emircan Durmuş](https://img.shields.io/badge/-Download%20My%20CV-red?style=for-the-badge)](https://github.com/durmusemircan/durmusemircan/blob/main/EmircanDurmusCV.pdf)
 
 ## 🛠 Technologies and Tools
